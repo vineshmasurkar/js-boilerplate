@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/VMASURKA/workspace/PMP" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/RnD" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/SD_MG_API" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/angspr" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/ford-ecoboost/eco-service-boost" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/fordtest/try-service-test" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/health-monitor" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/sca/sca-hadoopbatch" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/sca/sca-microservices" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/sca/sca-microservices/spring-apps/accessibility" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/sca/sca-microservices/spring-apps/city-profile" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/sca/sca-microservices/spring-apps/transit-gap" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/udp/batch-scheduler" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/udp/livability-api" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/udp/micromobility-api" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/udp/udp-common" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/udp/user-management-api" value="PREVIEW" />
+        <entry key="C:/VMASURKA/workspace/udp/weather-api" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
