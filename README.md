@@ -1,5 +1,7 @@
 # js-boilerplate
 
+Plain Old Javascript Project
+
 How to Start Unit Testing Your JavaScript Code
 
 # Setup
