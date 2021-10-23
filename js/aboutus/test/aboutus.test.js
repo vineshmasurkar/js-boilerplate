@@ -1,3 +1,8 @@
+//require('babel-register')({
+//    presets: ['env']
+//});
+//module.exports = require('../aboutus.js')
+
 const getAboutUsLink = require("../aboutus");
 
 test("Returns about-us for English language", () => {
